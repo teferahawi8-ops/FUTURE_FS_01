@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This is my personal portfolio website built using React and Vite.
+This is my personal portfolio built using React and Vite.
 
 ## Features
 - Responsive design
@@ -12,20 +12,3 @@ This is my personal portfolio website built using React and Vite.
 - React
 - Vite
 - Tailwind CSS
-
-## Installation
-
-```bash
-npm install
-npm run dev
-```
-
-## Build
-
-```bash
-npm run build
-```
-
-## Deployment
-
-Deployed using Vercel.
